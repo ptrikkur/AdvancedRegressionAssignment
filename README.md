@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Regression model to understand Pricing of Houses in the US
 
 
 ## Table of Contents
